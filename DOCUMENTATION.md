@@ -131,10 +131,10 @@ Backend server:
 Contoh:
 
 ```env
-DB_HOST=172.16.10.239
-DB_USER=baktiuser
-DB_PASSWORD=Bakti2025.
-DB_NAME=aset_bakti
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=database-name
 LDAP_URL_1=ldap://172.16.10.136:389
 JWT_SECRET=your_jwt_secret_here
 ```
